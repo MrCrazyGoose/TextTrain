@@ -1,0 +1,4 @@
+.word {
+	font-size: 15vw;
+	overflow-wrap: break-word;
+}
